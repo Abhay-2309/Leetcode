@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhay-2309/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0525-contiguous-array](https://github.com/Abhay-2309/Leetcode/tree/master/0525-contiguous-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhay-2309/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Abhay-2309/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2488-count-subarrays-with-median-k](https://github.com/Abhay-2309/Leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhay-2309/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhay-2309/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhay-2309/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 ## Counting
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhay-2309/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhay-2309/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
