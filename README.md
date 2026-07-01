@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhay-2309/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0525-contiguous-array](https://github.com/Abhay-2309/Leetcode/tree/master/0525-contiguous-array) |
+| [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1840-maximum-building-height](https://github.com/Abhay-2309/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhay-2309/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhay-2309/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -95,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Abhay-2309/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Abhay-2309/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Abhay-2309/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhay-2309/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -126,4 +130,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhay-2309/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
+## Matrix
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
