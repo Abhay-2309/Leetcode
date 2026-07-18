@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/Abhay-2309/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhay-2309/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Abhay-2309/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2262-total-appeal-of-a-string](https://github.com/Abhay-2309/Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhay-2309/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/Abhay-2309/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Abhay-2309/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Abhay-2309/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Depth-First Search
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/Abhay-2309/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Abhay-2309/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Abhay-2309/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhay-2309/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Abhay-2309/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Abhay-2309/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhay-2309/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Abhay-2309/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay-2309/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhay-2309/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Abhay-2309/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |
@@ -233,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhay-2309/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Design
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Abhay-2309/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
