@@ -153,7 +153,9 @@ public:
         SegmentTree sgTree(block, treesize);
         
         vector<int> ans;
-        for (auto itr : queries) {
+        int noofqueries = queries.size();
+        ans.reserve(noofqueries); 
+        for (const auto &itr : queries) {
             int templ = itr[0];
             int tempr = itr[1];
             
