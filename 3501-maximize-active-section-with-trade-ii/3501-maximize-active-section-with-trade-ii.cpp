@@ -95,7 +95,6 @@ class Solution {
 public:
     vector<int> maxActiveSectionsAfterTrade(string s, vector<vector<int>>& queries) {
         int n = s.size();
-        int noofqueries = queries.size();
         
         vector<int> leftmefirstone(n + 1, -1);
         vector<int> rightmefirstone(n + 1, n);
@@ -167,24 +166,31 @@ public:
             int last_0 = leftmefirstzero[tempr];
             int id1 = block_id[first_0];
             int id2 = block_id[last_0];
+            
             if (id1 == id2) {
                 ans.push_back(totalones_overall);
                 continue;
             }
+            
             int size1 = rightmefirstone[first_0] - first_0;
             int size2 = last_0 - leftmefirstone[last_0];
             int orig1 = block[id1];
             int orig2 = block[id2];
             block[id1] = size1;
             block[id2] = size2;
-            set<int> affected;
+            
             int num_pairs = treesize - 1;
-            if (id1 - 1 >= 1) affected.insert(id1 - 1);
-            if (id1 <= num_pairs) affected.insert(id1);
-            if (id2 - 1 >= 1) affected.insert(id2 - 1);
-            if (id2 <= num_pairs) affected.insert(id2);
-            for (int p : affected) {
-                sgTree.update(p, block[p], block[p + 1]);
+            if (id1 - 1 >= 1) {
+                sgTree.update(id1 - 1, block[id1 - 1], block[id1]);
+            }
+            if (id1 <= num_pairs) {
+                sgTree.update(id1, block[id1], block[id1 + 1]);
+            }
+            if (id2 - 1 >= 1 && id2 - 1 != id1) {
+                sgTree.update(id2 - 1, block[id2 - 1], block[id2]);
+            }
+            if (id2 <= num_pairs) {
+                sgTree.update(id2, block[id2], block[id2 + 1]);
             }
             int max_pair = 0;
             if (id1 <= id2 - 1) {
@@ -193,8 +199,17 @@ public:
             ans.push_back(totalones_overall + max_pair);
             block[id1] = orig1;
             block[id2] = orig2;
-            for (int p : affected) {
-                sgTree.update(p, block[p], block[p + 1]);
+            if (id1 - 1 >= 1) {
+                sgTree.update(id1 - 1, block[id1 - 1], block[id1]);
+            }
+            if (id1 <= num_pairs) {
+                sgTree.update(id1, block[id1], block[id1 + 1]);
+            }
+            if (id2 - 1 >= 1 && id2 - 1 != id1) {
+                sgTree.update(id2 - 1, block[id2 - 1], block[id2]);
+            }
+            if (id2 <= num_pairs) {
+                sgTree.update(id2, block[id2], block[id2 + 1]);
             }
         }
         return ans;
