@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Abhay-2309/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhay-2309/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/Abhay-2309/Leetcode/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Abhay-2309/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Abhay-2309/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/Abhay-2309/Leetcode/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Prefix Sum
 |  |
 | ------- |
