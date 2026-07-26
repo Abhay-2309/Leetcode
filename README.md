@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Abhay-2309/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Abhay-2309/Leetcode/tree/master/0525-contiguous-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhay-2309/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Abhay-2309/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1260-shift-2d-grid](https://github.com/Abhay-2309/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Abhay-2309/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhay-2309/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Abhay-2309/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1840-maximum-building-height](https://github.com/Abhay-2309/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhay-2309/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Abhay-2309/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Abhay-2309/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1840-maximum-building-height](https://github.com/Abhay-2309/Leetcode/tree/master/1840-maximum-building-height) |
