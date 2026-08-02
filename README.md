@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Abhay-2309/Leetcode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Abhay-2309/Leetcode/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Abhay-2309/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhay-2309/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhay-2309/Leetcode/tree/master/0877-stone-game) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Abhay-2309/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Abhay-2309/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Abhay-2309/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay-2309/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
