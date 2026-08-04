@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/Abhay-2309/Leetcode/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Abhay-2309/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhay-2309/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhay-2309/Leetcode/tree/master/0877-stone-game) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Abhay-2309/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0343-integer-break](https://github.com/Abhay-2309/Leetcode/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Abhay-2309/Leetcode/tree/master/0486-predict-the-winner) |
 | [0834-sum-of-distances-in-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/Abhay-2309/Leetcode/tree/master/0877-stone-game) |
