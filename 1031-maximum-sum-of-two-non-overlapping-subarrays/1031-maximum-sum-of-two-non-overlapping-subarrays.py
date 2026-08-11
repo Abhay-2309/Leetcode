@@ -1,38 +1,26 @@
 class Solution:
     def maxSumTwoNoOverlap(self, nums: List[int], firstLen: int, secondLen: int) -> int:
         n = len(nums)
-        
-        def f(l:int,r:int)->int:
-            if r-l+1 < secondLen:
-                return 0
+        prefix = [0] * (n + 1)
+        for i in range(n):
+            prefix[i+1] = prefix[i] + nums[i]
             
-            L = l
-            R = l
-            curr_win_sum = 0 
-            for _ in range(secondLen):
-                curr_win_sum += nums[R]
-                R += 1
-            maxi = curr_win_sum
-            while R <= r:
-                curr_win_sum = curr_win_sum - nums[L] + nums[R]
-                maxi = max(maxi, curr_win_sum)
-                L += 1
-                R += 1    
-            return maxi
-
-        left = 0
-        right = 0
-        currsum = 0
-        for _ in range(firstLen):
-            currsum += nums[right]
-            right += 1
-        res = currsum + max(f(0, left-1), f(right, n-1))
-        
-        while right < n:
-            currsum = currsum - nums[left] + nums[right]
-            left += 1
-            right += 1
-            tempsumsecond = max(f(0, left-1), f(right, n-1))
-            res = max(res, currsum + tempsumsecond)
-            
-        return res
+        def get_max_split(L: int, R: int) -> int:
+            left_max = [0] * n
+            curr_max_L = 0
+            for i in range(L - 1, n):
+                curr_window = prefix[i + 1] - prefix[i + 1 - L]
+                curr_max_L = max(curr_max_L, curr_window)
+                left_max[i] = curr_max_L
+            right_max = [0] * n
+            curr_max_R = 0
+            for i in range(n - R, -1, -1):
+                curr_window = prefix[i + R] - prefix[i]
+                curr_max_R = max(curr_max_R, curr_window)
+                right_max[i] = curr_max_R
+            max_combined = 0
+            for i in range(L - 1, n - R):
+                max_combined = max(max_combined, left_max[i] + right_max[i + 1])
+                
+            return max_combined
+        return max(get_max_split(firstLen, secondLen), get_max_split(secondLen, firstLen))
