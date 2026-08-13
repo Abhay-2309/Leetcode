@@ -11,11 +11,11 @@ private:
         int mid = left + ((right - left) >> 1); 
         
         if(ind <= mid) {
-            updateUtil(2*index+1, left, mid, ind, val);
+            updateUtil(index << 1, left, mid, ind, val);
         } else {
-            updateUtil(2*index+2, mid+1, right, ind, val);
+            updateUtil(index << 1 | 1, mid + 1, right, ind, val);
         }
-        tree[index] = max(tree[2*index+1], tree[2*index+2]);
+        tree[index] = max(tree[index << 1], tree[index << 1 | 1]);
     }
 
     long long queryUtil(int index, int left, int right, int low, int high) {
@@ -25,8 +25,9 @@ private:
         if(low <= left && high >= right) return tree[index]; 
         
         int mid = left + ((right - left) >> 1); 
-        long long left_val = queryUtil(2*index+1, left, mid, low, high);
-        long long right_val = queryUtil(2*index+2, mid+1, right, low, high);
+        long long left_val = queryUtil(index << 1, left, mid, low, high);
+        long long right_val = queryUtil(index << 1 | 1, mid + 1, right, low, high);
+        
         return max(left_val, right_val);
     }
 
@@ -37,11 +38,11 @@ public:
     }
 
     void update(int ind, long long val) {
-        updateUtil(0, 0, n - 1, ind, val);
+        updateUtil(1, 0, n - 1, ind, val);
     }
 
     long long query(int low, int high) {
-        return queryUtil(0, 0, n - 1, low, high);
+        return queryUtil(1, 0, n - 1, low, high);
     }
 };
 
@@ -55,18 +56,21 @@ public:
         }
         sort(temp.begin(), temp.end());
         temp.erase(unique(temp.begin(), temp.end()), temp.end());
+        
         int size = temp.size();
         segmentTree sgTree(size + 1);
         long long maxi = -1e18; 
         
         for(int i = 0; i < n; i++) {
             int rankindex = lower_bound(temp.begin(), temp.end(), nums[i] - i) - temp.begin();
-            long long prevdata = sgTree.query(0, rankindex); 
             
+            long long prevdata = sgTree.query(0, rankindex); 
             long long newvalue = prevdata + nums[i];
+            
             maxi = max(maxi, newvalue);
             sgTree.update(rankindex, newvalue);
         }
+        
         return maxi;
     } 
 };
