@@ -5,7 +5,7 @@ public:
         int n = nums.size();
         for(int i = 0; i < n; i++) {
             if (nums[i] >= lower && nums[i] <= upper) {
-                mask.set(nums[i] - lower);
+                mask.set(nums[i]);
             }
         }
         
@@ -14,11 +14,11 @@ public:
         int right = upper;
         
         while (left <= right) {
-            if (mask.test(left - lower)) {
+            if (mask.test(left)) {
                 left++;
             } else {
                 int end_range = left;
-                while (end_range <= right && !mask.test(end_range - lower)) {
+                while (end_range <= right && !mask.test(end_range)) {
                     end_range++;
                 }
                 ans.push_back({left, end_range - 1});
