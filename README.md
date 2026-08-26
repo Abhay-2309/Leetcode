@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhay-2309/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Abhay-2309/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Abhay-2309/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhay-2309/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Abhay-2309/Leetcode/tree/master/3731-find-missing-elements) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Abhay-2309/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhay-2309/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay-2309/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay-2309/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhay-2309/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Abhay-2309/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Matrix
 |  |
 | ------- |
