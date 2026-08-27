@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/Abhay-2309/Leetcode/tree/master/0343-integer-break) |
+| [0382-linked-list-random-node](https://github.com/Abhay-2309/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0486-predict-the-winner](https://github.com/Abhay-2309/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhay-2309/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Abhay-2309/Leetcode/tree/master/0877-stone-game) |
@@ -440,5 +441,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0382-linked-list-random-node](https://github.com/Abhay-2309/Leetcode/tree/master/0382-linked-list-random-node) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhay-2309/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Abhay-2309/Leetcode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Abhay-2309/Leetcode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
