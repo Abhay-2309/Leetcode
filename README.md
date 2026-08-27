@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Abhay-2309/Leetcode/tree/master/0525-contiguous-array) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Abhay-2309/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Abhay-2309/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhay-2309/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Abhay-2309/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Abhay-2309/Leetcode/tree/master/0382-linked-list-random-node) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Abhay-2309/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhay-2309/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Reservoir Sampling
 |  |
