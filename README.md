@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Abhay-2309/Leetcode/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1776-car-fleet-ii](https://github.com/Abhay-2309/Leetcode/tree/master/1776-car-fleet-ii) |
 | [1840-maximum-building-height](https://github.com/Abhay-2309/Leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhay-2309/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhay-2309/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/Abhay-2309/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1140-stone-game-ii](https://github.com/Abhay-2309/Leetcode/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Abhay-2309/Leetcode/tree/master/1563-stone-game-v) |
+| [1776-car-fleet-ii](https://github.com/Abhay-2309/Leetcode/tree/master/1776-car-fleet-ii) |
 | [1840-maximum-building-height](https://github.com/Abhay-2309/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhay-2309/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1776-car-fleet-ii](https://github.com/Abhay-2309/Leetcode/tree/master/1776-car-fleet-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay-2309/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhay-2309/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Abhay-2309/Leetcode/tree/master/3620-network-recovery-pathways) |
@@ -395,12 +398,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Abhay-2309/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0853-car-fleet](https://github.com/Abhay-2309/Leetcode/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay-2309/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1776-car-fleet-ii](https://github.com/Abhay-2309/Leetcode/tree/master/1776-car-fleet-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Abhay-2309/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0853-car-fleet](https://github.com/Abhay-2309/Leetcode/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay-2309/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1776-car-fleet-ii](https://github.com/Abhay-2309/Leetcode/tree/master/1776-car-fleet-ii) |
 ## Simulation
 |  |
 | ------- |
