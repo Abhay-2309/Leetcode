@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Abhay-2309/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0834-sum-of-distances-in-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/Abhay-2309/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Abhay-2309/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0834-sum-of-distances-in-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/Abhay-2309/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Abhay-2309/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Abhay-2309/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Abhay-2309/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Abhay-2309/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0968-binary-tree-cameras](https://github.com/Abhay-2309/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
 ## Enumeration
@@ -473,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Abhay-2309/Leetcode/tree/master/0382-linked-list-random-node) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Abhay-2309/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
