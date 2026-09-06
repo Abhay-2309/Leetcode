@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Abhay-2309/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhay-2309/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Abhay-2309/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/Abhay-2309/Leetcode/tree/master/0343-integer-break) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Abhay-2309/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhay-2309/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Abhay-2309/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay-2309/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
