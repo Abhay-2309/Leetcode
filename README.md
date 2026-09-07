@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Abhay-2309/Leetcode/tree/master/0486-predict-the-winner) |
 | [0834-sum-of-distances-in-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/Abhay-2309/Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Abhay-2309/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0968-binary-tree-cameras](https://github.com/Abhay-2309/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Abhay-2309/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/Abhay-2309/Leetcode/tree/master/1140-stone-game-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Abhay-2309/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhay-2309/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Abhay-2309/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/Abhay-2309/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Abhay-2309/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Abhay-2309/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhay-2309/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
