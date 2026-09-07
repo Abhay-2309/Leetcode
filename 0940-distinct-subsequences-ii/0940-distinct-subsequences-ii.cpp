@@ -1,22 +1,40 @@
 class Solution {
 public:
-    static const int MOD = 1e9+7;
-    static inline int modadd(int a,int b){
-        return (a+b)%MOD;
-    }
-    int distinctSubseqII(string s) {
-        int n = s.size();
-        int dp[26] = {0};
-        int ans = 0;
+    int M = 1e9+7;
+    int dp[2001];
+    vector<int> prev;
+    int solve(int n) {
+        if(n == 0)
+            return 1;
+
+        if(dp[n] != -1)
+            return dp[n];
         
-        for(int i = 0; i < n; i++) {
-            int newtotal = (modadd(ans, ans) - dp[s[i]-'a'] + 1) % MOD;
-            if (newtotal < 0) {
-                newtotal += MOD;
-            }
-            dp[s[i]-'a'] = (ans + 1) % MOD;
-            ans = newtotal;
+        int total = (2*solve(n-1)) % M;
+
+        if(prev[n] != 0) {
+            int duplicates = solve(prev[n] - 1);
+            total = (total - duplicates + M) % M;
         }
-        return ans;
+
+        return dp[n] = total;
+    }
+
+    int distinctSubseqII(string s) {
+        int n = s.length();
+
+        memset(dp, -1, sizeof(dp));
+        prev.assign(n+1, 0);
+
+        vector<int> lastSeen(26, 0);
+        for(int i = 1; i <= n; i++) {
+            int idx = s[i-1] -'a';
+
+            prev[i] = lastSeen[idx];
+            lastSeen[idx] = i;
+        }
+
+        return (solve(n) - 1 + M) % M;
+
     }
 };
