@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Abhay-2309/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Abhay-2309/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1563-stone-game-v](https://github.com/Abhay-2309/Leetcode/tree/master/1563-stone-game-v) |
+| [1987-number-of-unique-good-subsequences](https://github.com/Abhay-2309/Leetcode/tree/master/1987-number-of-unique-good-subsequences) |
 | [2262-total-appeal-of-a-string](https://github.com/Abhay-2309/Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Abhay-2309/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhay-2309/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Abhay-2309/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhay-2309/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhay-2309/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1987-number-of-unique-good-subsequences](https://github.com/Abhay-2309/Leetcode/tree/master/1987-number-of-unique-good-subsequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhay-2309/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2262-total-appeal-of-a-string](https://github.com/Abhay-2309/Leetcode/tree/master/2262-total-appeal-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhay-2309/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
