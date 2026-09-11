@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhay-2309/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Abhay-2309/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhay-2309/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Abhay-2309/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhay-2309/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Abhay-2309/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3337-total-characters-in-string-after-transformations-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3337-total-characters-in-string-after-transformations-ii) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhay-2309/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhay-2309/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhay-2309/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhay-2309/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhay-2309/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhay-2309/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Abhay-2309/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Abhay-2309/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhay-2309/Leetcode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhay-2309/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
 |  |
 | ------- |
