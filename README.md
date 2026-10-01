@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhay-2309/Leetcode/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Abhay-2309/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Abhay-2309/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Abhay-2309/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhay-2309/Leetcode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Abhay-2309/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Abhay-2309/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0853-car-fleet](https://github.com/Abhay-2309/Leetcode/tree/master/0853-car-fleet) |
@@ -561,5 +563,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhay-2309/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhay-2309/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
