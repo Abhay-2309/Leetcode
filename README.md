@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Abhay-2309/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Abhay-2309/Leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2488-count-subarrays-with-median-k](https://github.com/Abhay-2309/Leetcode/tree/master/2488-count-subarrays-with-median-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhay-2309/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhay-2309/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/Abhay-2309/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhay-2309/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Abhay-2309/Leetcode/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Abhay-2309/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhay-2309/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhay-2309/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
