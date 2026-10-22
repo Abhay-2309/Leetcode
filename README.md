@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhay-2309/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhay-2309/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Abhay-2309/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Abhay-2309/Leetcode/tree/master/3976-maximum-subarray-sum-after-multiplier) |
 ## Math
 |  |
