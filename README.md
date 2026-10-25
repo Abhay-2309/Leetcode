@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/Abhay-2309/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Abhay-2309/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/Abhay-2309/Leetcode/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/Abhay-2309/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Abhay-2309/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Abhay-2309/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhay-2309/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/Abhay-2309/Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Abhay-2309/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Abhay-2309/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Abhay-2309/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhay-2309/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhay-2309/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1096-brace-expansion-ii](https://github.com/Abhay-2309/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Abhay-2309/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Abhay-2309/Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Abhay-2309/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhay-2309/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Abhay-2309/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [1254-number-of-closed-islands](https://github.com/Abhay-2309/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1998-gcd-sort-of-an-array](https://github.com/Abhay-2309/Leetcode/tree/master/1998-gcd-sort-of-an-array) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhay-2309/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Abhay-2309/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Abhay-2309/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Abhay-2309/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/Abhay-2309/Leetcode/tree/master/1631-path-with-minimum-effort) |
